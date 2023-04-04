@@ -210,7 +210,7 @@ First Run the file next we get a GUI for calculate the bills and print.
 ![Screenshot (247)](https://user-images.githubusercontent.com/113513434/229305777-24070c99-be2f-4ca6-8534-6dd79ca03537.png)
 
 ## ✍️ Author <a name = "author"></a>
-- [@Skill-Lync](https://github.com/JunieSkillync) Junie Denny
+- [@Skill-Lync](https://github.com/mohanaganapathy01) Mohana Ganapathy
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
